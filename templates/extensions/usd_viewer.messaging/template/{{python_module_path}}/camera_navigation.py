@@ -85,6 +85,47 @@ STORE_POSITIONS = {
         "rotation": (0.35, 91.57, 12.58),
         "description": "Drinks section"
     },
+    "sports drink": {
+        "location": (-359.24, 303.50, -849.97),
+        "rotation": (9.15, -179.38, -0.18),
+        "description": "Sports drink section"
+    },
+    "tissue": {
+        "location": (214.57, 304.57, -959.13),
+        "rotation": (3.34, 178.04, 0.03),
+        "description": "Tissue section"
+    },
+    "cottonbuds": {
+        "location": (217.69, 232.22, -955.44),
+        "rotation": (2.49, 175.73, 0.10),
+        "description": "Cotton buds section"
+    },
+    "aloe_vera": {
+        "location": (215.61, 158.33, -927.81),
+        "rotation": (2.16, 177.55, 0.01),
+        "description": "Aloe vera section"
+    },
+    "herbal medicine drink": {
+        "location": (191.74, 110.82, -999.21),
+        "rotation": (15.47, -177.58, -0.73),
+        "description": "Herbal medicine"
+    },
+    "honey_apple_tea": {
+        "location": (-409.10, 106.40, -988.95),
+        "rotation": (14.73, -179.85, -0.12),
+        "description": "Honey apple tea"
+    },
+    "noodles": {
+        "location": (743.46, 314.92, -519.92),
+        "rotation": (0.36, 91.52, 13.44),
+        "description": "noodles section"
+    },
+    "asparagus_juice": {
+        "location": (-122.33, 308.78, -576.64),
+        "rotation": (-0.67, 82.35, 4.98),
+        "description" : "asparagus juice"
+    },
+
 }
 
 
