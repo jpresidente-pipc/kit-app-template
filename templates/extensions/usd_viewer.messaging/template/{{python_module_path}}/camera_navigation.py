@@ -125,7 +125,36 @@ STORE_POSITIONS = {
         "rotation": (-0.67, 82.35, 4.98),
         "description" : "asparagus juice"
     },
-
+    "fruit tea": {
+        "location": (-411.72, 312.62, -50.73),
+        "rotation": (-6.66, 0.08, 0.09),
+        "description" : "fruit tea"
+    },
+    "royal milktea": {
+        "location": (-413.95, 176.57, 2.93),
+        "rotation": (-5.21, 0.55, 0.13),
+        "description" : "royal milktea"
+    },
+    "charcoal water": {
+        "location": (-413.09, 111.26, 12.67),
+        "rotation": (-3.14, 1.01, 0.14),
+        "description" : "charcoal water"
+    },
+    "jasmine milktea": {
+        "location": (-666.31, 303.80, -707.99),
+        "rotation": (0.38, -95.41, -4.95),
+        "description" : "jasmine milktea"
+    },
+    "brown rice milk": {
+        "location": (-667.82, 304.01, -567.73),
+        "rotation": (-0.07, -90.31, -2.96),
+        "description" : "brown rice milk"
+    },
+    "unsweetened soymilk ": {
+        "location": (-667.24, 304.30, -371.71),
+        "rotation": (-0.19, -87.55, -2.40),
+        "description" : "unsweetened soymilk"
+    },
 }
 
 
