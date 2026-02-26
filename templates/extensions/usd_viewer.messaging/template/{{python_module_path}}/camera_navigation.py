@@ -115,9 +115,9 @@ STORE_POSITIONS = {
         "rotation": (14.73, -179.85, -0.12),
         "description": "Honey apple tea"
     },
-    "noodles": {
-        "location": (743.46, 314.92, -519.92),
-        "rotation": (0.36, 91.52, 13.44),
+    "noodles":{
+        "location": (702.18, 287.23, -503.43),
+        "rotation": (-0.17, 88.89, 13.16),
         "description": "noodles section"
     },
     "asparagus_juice": {
@@ -154,6 +154,16 @@ STORE_POSITIONS = {
         "location": (-667.24, 304.30, -371.71),
         "rotation": (-0.19, -87.55, -2.40),
         "description" : "unsweetened soymilk"
+    },
+    "coco milk": {
+        "location": (-419.65, 190.35, -974.80),
+        "rotation": (11.64, -179.23, -0.24),
+        "description":"coco milk"
+    },
+    "peanut can": {
+        "location": (-143.95, 315.95, -394.49),
+        "rotation": (0.10, 90.13, 8.09),
+        "description":"peanut can"
     },
 }
 
